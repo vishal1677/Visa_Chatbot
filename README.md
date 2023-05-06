@@ -1,16 +1,27 @@
-# visachatbot
 
-A new Flutter project.
+# Visa Chatbot
 
-## Getting Started
+A project developed during 24 hr hackathon conducted by COEP CSI
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+This project has following functionality:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Chatbot which can solve general visa related quries 
+- Reccomendation feature based on users chat 
+- Speech to text feature
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tech Stack
+
+**Chatbot:** NLP, Tensorflow DNN,Scikitlearn
+
+**Server:** Flask
+
+**App:** Flutter,Firebase
+
+## Screenshots
+
+[App Screenshot]![Visa Chatbot](https://user-images.githubusercontent.com/97781791/236601999-45eaacaa-c80c-49c7-8820-2c5bce62430a.png)
+
+
