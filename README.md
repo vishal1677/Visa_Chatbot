@@ -22,6 +22,6 @@ This project has following functionality:
 
 ## Screenshots
 
-[App Screenshot]![Visa Chatbot](https://user-images.githubusercontent.com/97781791/236601999-45eaacaa-c80c-49c7-8820-2c5bce62430a.png)
+![Visa Chatbot](https://user-images.githubusercontent.com/97781791/236601999-45eaacaa-c80c-49c7-8820-2c5bce62430a.png)
 
 
