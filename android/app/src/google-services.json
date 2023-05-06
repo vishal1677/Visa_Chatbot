@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878491652531",
+    "project_id": "health-plus-319bf",
+    "storage_bucket": "health-plus-319bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878491652531:android:d55a40128f81011cb33bc6",
+        "android_client_info": {
+          "package_name": "com.example.visachatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878491652531-bdg37f6sd71v30pd4f5m1ufiij601ktt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visachatbot",
+            "certificate_hash": "d6101f3eab17e2612f8d4eab7dd043a2038aeb58"
+          }
+        },
+        {
+          "client_id": "878491652531-nu9dj2ol8qtghtsl58igdg184vusdfk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7nYOxcvjHOUs6FQlwdVfyaMxEti-9XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878491652531-nu9dj2ol8qtghtsl58igdg184vusdfk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
